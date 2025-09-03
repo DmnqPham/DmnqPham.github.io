@@ -1,4 +1,4 @@
-![Image of Dominique(images/headshot.png)
+![Image of Dominique (images/headshot.png)
 
 ## About Me
 I am a PHD student in the UConn EEB department interested in CAM ecophysiology and stress tolerance.
